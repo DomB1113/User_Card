@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+}
+#container {
+    border: 3px solid grey;
+    width: 700px;
+    height: 350px;
+    margin: 50px auto;
+}
+.topbar{
+    background-color: #17a2b8;
+    height: 110px;
+}
+
+.usercircle{
+    height: 80px;
+    position: absolute;
+    top: 125px;
+}
+.marginleft{
+    margin-left: 30px;
+}
+.name{
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: 500;
+}
+.mapmarker{
+    height: 20px;
+}
+.seattle{
+    display: inline;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.description{
+    margin-top: 15px;
+}
+.gear{
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 4px;
+    position:absolute
+}
+a {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 30px;
+}
